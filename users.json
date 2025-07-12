@@ -1,0 +1,14 @@
+[
+    {
+        "name": "jgfhy",
+        "password": "scrypt:32768:8:1$JOWxM2CCS563toFW$cfef1f1d880993c18b91d4bcd42a743e1272368f1c02e5927310dad601c5a2a96a14aa01a15e3baaa5cce72c042d571227e581d9b7376f2a350c44cc531b97c4"
+    },
+    {
+        "name": ";lkfjhbejwk",
+        "password": "scrypt:32768:8:1$zslKe9n0AhwQ8B4M$c5377fcba81920de970c1ff9200ca80d56c83132a281a97f730905cdfcdabf9566cda824b38484c3bb4855fd69f83be45755758de43498f9d27ac02bb719f175"
+    },
+    {
+        "name": "lkjhhyg",
+        "password": "scrypt:32768:8:1$3NuiULidOcnzdJ34$923d04db0c4f27db3cbaffb3a67381f0f04d2f2f27343d9400ca1418ec8ac00fd2fbff9391c45c8ee379e41dab713e3131f469b4def329a7283748768f01b85f"
+    }
+]
